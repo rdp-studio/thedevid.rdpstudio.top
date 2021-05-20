@@ -10,7 +10,7 @@
 <p align="center">An identity for developers on the web.</p>
 
 <p align="center">
-  <a href="thedevid.rdpstudio.top">thedev.id</a>
+  <a href="thedevid.rdpstudio.top">thedevid.rdpstudio.top</a>
   <br /><br />
 	<a href="https://github.com/rdp-studio/thedevid.rdpstudio.top/contributors">
     <img src="https://img.shields.io/github/contributors/rdp-studio/thedevid.rdpstudio.top?color=brightgreen" alt="Contributors" height="20"/>
