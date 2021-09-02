@@ -7,8 +7,20 @@
  *
  */
 
+/**
+ *
+ * 你好!
+ * 
+ * 请使用以下格式按字母顺序输入数据：
+ * <子域名称>: <网站名称>
+ *
+ */
+
 /* DO NOT CHANGE */
+/* 请勿更改 */
 [ROOT]:rdp-studio.github.io
+/* 请勿更改 */
 /* DO NOT CHANGE */
 mklinux:mklinuxpro.github.io
 /* Add subdomain in alphabetical order */
+/* 按字母顺序添加子域 */
